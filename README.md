@@ -1,5 +1,5 @@
 # Excursion
-This is a web page that I created from scratch, advertising a product called "Excursion". I used my growing toolset which includes HTML, CSS, and Visual Studio Code.
+This is a landing page I created using Visual Studio Code for Excursion, a fictional mobile app which helps users record and share their experiences. 
 
 # Media
 _[Insert screenshots here]_
